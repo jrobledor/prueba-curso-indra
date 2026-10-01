@@ -1,3 +1,3 @@
-Esto s una prueba
+Esto es una prueba
 
 nueva prueba
